@@ -1,0 +1,11 @@
+{
+  "isogram_test.py::TestIsogram::test_duplicated_character_in_the_middle": true,
+  "isogram_test.py::TestIsogram::test_empty_string": true,
+  "isogram_test.py::TestIsogram::test_hypothetical_isogrammic_word_with_hyphen": true,
+  "isogram_test.py::TestIsogram::test_isogram_with_duplicated_hyphen": true,
+  "isogram_test.py::TestIsogram::test_isogram_with_duplicated_letter_and_nonletter_character": true,
+  "isogram_test.py::TestIsogram::test_longest_reported_english_isogram": true,
+  "isogram_test.py::TestIsogram::test_made_up_name_that_is_an_isogram": true,
+  "isogram_test.py::TestIsogram::test_word_with_duplicated_character_in_mixed_case": true,
+  "isogram_test.py::TestIsogram::test_word_with_one_duplicated_character": true
+}
