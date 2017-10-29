@@ -1,0 +1,6 @@
+{
+  "pangram_test.py::PangramTests::test_pangram_with_mixedcase_and_punctuation": true,
+  "pangram_test.py::PangramTests::test_pangram_with_numbers": true,
+  "pangram_test.py::PangramTests::test_pangram_with_only_lower_case": true,
+  "pangram_test.py::PangramTests::test_pangram_with_underscores": true
+}
