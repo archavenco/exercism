@@ -1,0 +1,8 @@
+{
+  "rna_transcription_test.py::DNATests::test_correctly_handles_completely_invalid_input": true,
+  "rna_transcription_test.py::DNATests::test_correctly_handles_partially_invalid_input": true,
+  "rna_transcription_test.py::DNATests::test_correctly_handles_single_invalid_input": true,
+  "rna_transcription_test.py::DNATests::test_transcribes_adenine_to_uracil": true,
+  "rna_transcription_test.py::DNATests::test_transcribes_all_occurences": true,
+  "rna_transcription_test.py::DNATests::test_transcribes_cytosine_to_guanine": true
+}
